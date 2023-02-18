@@ -6,14 +6,14 @@ let ledStatus = Boolean(false);
 
 // Firebase 접근 정보
 var config = {
-  apiKey: "AIzaSyA4JNrHtS9pc6QaW8dtwATWhUhs0Ni8OBI",
-  authDomain: "smartfarm-f867f.firebaseapp.com",
-  databaseURL: "https://smartfarm-f867f-default-rtdb.firebaseio.com",
-  projectId: "smartfarm-f867f",
-  storageBucket: "smartfarm-f867f.appspot.com",
-  messagingSenderId: "605663694333",
-  appId: "1:605663694333:web:ae528fa94efc794d285d94",
-  measurementId: "G-9C54BH4QG4"
+  apiKey: "AIzaSyC98pVbxsew7UDe_85X0ab3kKWMATwSFFc",
+  authDomain: "smartfarm-b3560.firebaseapp.com",
+  databaseURL: "https://smartfarm-b3560-default-rtdb.firebaseio.com",
+  projectId: "smartfarm-b3560",
+  storageBucket: "smartfarm-b3560.appspot.com",
+  messagingSenderId: "587462914336",
+  appId: "1:587462914336:web:4c612ca75ea956372de745",
+  measurementId: "G-WWWXHMWF34"
 };
 firebase.initializeApp(config);
 database = firebase.database();
